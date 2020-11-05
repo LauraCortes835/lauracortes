@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://allegra.flowersetcfresno.com/pic/343545_full-fondo-pantalla-pc-hd-marmol-edcott-10x7ft-fondo-de-fotografia-de-marmol-blanco-boda-cumpleanos.jpg);
+}
+.menu {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    background-color: rgb(30, 34, 33);
+  
+    height: 50px;
+   
+}
+.letra{
+    color: azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration:none;
+   
+}
+
+.imagen{
+    width: 200px;
+   float: left; 
+}
+.div{
+    width: 700px;
+    margin:0 auto;
+}
+.h2{
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
