@@ -37,6 +37,11 @@ body{
     width: 200px;
    float: left; 
 }
+.op{
+margin:auto;
+width: 200px;
+}
+
 .div{
     width: 700px;
     margin:0 auto;
