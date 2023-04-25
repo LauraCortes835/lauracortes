@@ -26,7 +26,7 @@ body{
 }
 .carousel-inner {
     position: relative;
-    width: 100%;
+    width: 60%;
     height: 60%;
     overflow: hidden;
     overflow-x: hidden;
@@ -38,6 +38,7 @@ body{
    float: left; 
 }
 .op{
+display:block;
 margin:auto;
 width: 200px;
 }
