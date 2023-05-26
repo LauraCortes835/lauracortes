@@ -1,6 +1,10 @@
 body{
   background-color: white;
 }
+.arreglo{
+   font-weight: 100;
+    background-color: aquamarine;
+}
 .menu {
     position: relative;
     display: -ms-flexbox;
@@ -12,9 +16,9 @@ body{
     -ms-flex-pack: justify;
     justify-content: space-between;
     padding: .5rem 1rem;
-    background-color: rgb(30, 34, 33);
+    background-color: rgb(180, 199, 198);
   
-    height: 100px;
+    height: 80px;
    
 }
 .letra{
@@ -44,10 +48,15 @@ width: 200px;
 
 .div{
     width: 700px;
+    height:800 ;
     margin:0 auto;
 }
+.iil{
+   width: 700;
+    background-color: rgb(158, 223, 209);
+}
 .h2{
-    font-size: 20px;
+    font-size: 17px;
     font-family: 'Lobster', cursive;
     text-align: center;
 }
@@ -67,10 +76,17 @@ width: 200px;
     width: 85%;
     
 }
-.h2A{
-    font-size: 50px;
+.h2B{
+    font-size: 70px;
     font-family: 'Lobster', cursive;
     text-align: center;
+    color: black;
+}
+.h2A{
+    font-size: 90px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: black;
 }
 .TAMAÑO{
     width: 30%;
